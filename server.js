@@ -32,7 +32,7 @@ webpush.setVapidDetails(
 );
 
 // 从环境变量中读取 PWA_BASE_URL
-const PWA_BASE_URL = process.env.PWA_BASE_URL || 'https://jigong-news-backend.onrender.com';
+const PWA_BASE_URL = process.env.PWA_BASE_URL || 'https://wang-wei-hao.github.io/jigong-news/';
 
 // --- PostgreSQL 数据库配置 ---
 // 从环境变量 DATABASE_URL 中获取连接字符串
